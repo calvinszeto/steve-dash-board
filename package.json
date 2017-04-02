@@ -1,0 +1,14 @@
+{
+  "name": "steve-dash-board",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-rev": "^7.1.2",
+    "gulp-uglify": "^2.1.2",
+    "gulp-usemin": "^0.3.28"
+  }
+}
